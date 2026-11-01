@@ -104,6 +104,7 @@ rps_classifier/
 
 ## Notes
 
+- mobilenetv2
 - The dataset labels use CIFAR-100's 100 fine categories, in the order recorded in `models/class_names.json`.
 - The official test split is not used for training or model selection.
 - Model confidence is not a guarantee of correctness, especially for images outside CIFAR-100's image style and categories.
