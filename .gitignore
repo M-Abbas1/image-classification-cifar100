@@ -8,3 +8,4 @@ datasets/*
 models/*.keras
 models/*.json
 models/*.weights.h5
+*.pdf
